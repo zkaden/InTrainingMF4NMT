@@ -1,0 +1,6 @@
+numpy
+docopt
+tqdm
+torch
+nltk
+sentencepiece
